@@ -4,7 +4,8 @@
   "client_uri": "https://ashish0607.github.io/cimd-test-jwk-app",
   "logo_uri": "https://github.com/fluidicon.png",
   "redirect_uris": [
-    "https://example.com"
+    "https://example.com",
+    "https://web.auth.io/app/oauth2"
   ],
   "grant_types": [
     "authorization_code",
